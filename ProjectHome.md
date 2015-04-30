@@ -1,0 +1,3 @@
+Devido a crescente demanda de conteúdo dinamico na internet os sistemas de cache deixaram de ser atrativos para economia de banda. Nossa ideia e criar um helper que seja capaz de entender estes conteudos, fazer o cache e devolver ao cliente economizando de fato a banda de internet.
+
+Para o processo, estamos nos valendo de ideias devarios colaboradores e estamos abertos a receber ajuda de quem quiser colaborar com espertize.
